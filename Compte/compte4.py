@@ -1,0 +1,51 @@
+cookies = {
+    '_EDGE_V': '1',
+    'WLS': 'C=bf65b3d2b1ea004e&N=Gilber',
+    '_U': '16VJgYXxhOAZkS7wbYIsOwaR_BDu30v5NvsPjdDAXK80icHz7S1K6Y_VBvAJLDF7wtemucbBjxHAhu3N643f-V1A5sx7gR-WIazhm-RDjL1EuwF_qy3GVtfdcwP5n3nW8rxp3QGgs1_Mfw82t6jcUv6BTWQf81rwWEi8w7p_LzJ5la-EWrijy6R-eg45T0anZvBBq1A6vGFvRaytHIu9kkA',
+    'MUID': '1BBB86F467F464DB3E6094A8668D6508',
+    'MUIDB': '1BBB86F467F464DB3E6094A8668D6508',
+    '_EDGE_S': 'F=1&SID=23ECD84D7CE8624930C0CA117D916322',
+    '_SS': 'PC=U531&SID=23ECD84D7CE8624930C0CA117D916322',
+    'SRCHS': 'PC=U531',
+    'USRLOC': 'HS=1',
+    'SRCHD': 'AF=ANSPH1',
+    'SRCHUID': 'V=2&GUID=F7B93B3283BF42B0B15B60A113A72705&dmnchg=1',
+    'SUID': 'A',
+    'SRCHUSR': 'DOB=20221114&POEX=W',
+    'ANON': 'A=3D2A7E2AB63B0AFD91552388FFFFFFFF&E=1ba0&W=1',
+    'NAP': 'V=1.9&E=1b46&C=aP4BDVwpockjJZ7iHOSX-UPsZgt27sEtvBgP2cdXfjN3pHwyBf3iSw&W=1',
+    'SRCHHPGUSR': 'SRCHLANG=nl&PV=15.0.0',
+}
+
+headers = {
+    'authority': 'www.bing.com',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'accept-language': 'fr,fr-FR;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+    # Requests sorts cookies= alphabetically
+    # 'cookie': '_EDGE_V=1; WLS=C=bf65b3d2b1ea004e&N=Gilber; _U=16VJgYXxhOAZkS7wbYIsOwaR_BDu30v5NvsPjdDAXK80icHz7S1K6Y_VBvAJLDF7wtemucbBjxHAhu3N643f-V1A5sx7gR-WIazhm-RDjL1EuwF_qy3GVtfdcwP5n3nW8rxp3QGgs1_Mfw82t6jcUv6BTWQf81rwWEi8w7p_LzJ5la-EWrijy6R-eg45T0anZvBBq1A6vGFvRaytHIu9kkA; MUID=1BBB86F467F464DB3E6094A8668D6508; MUIDB=1BBB86F467F464DB3E6094A8668D6508; _EDGE_S=F=1&SID=23ECD84D7CE8624930C0CA117D916322; _SS=PC=U531&SID=23ECD84D7CE8624930C0CA117D916322; SRCHS=PC=U531; USRLOC=HS=1; SRCHD=AF=ANSPH1; SRCHUID=V=2&GUID=F7B93B3283BF42B0B15B60A113A72705&dmnchg=1; SUID=A; SRCHUSR=DOB=20221114&POEX=W; ANON=A=3D2A7E2AB63B0AFD91552388FFFFFFFF&E=1ba0&W=1; NAP=V=1.9&E=1b46&C=aP4BDVwpockjJZ7iHOSX-UPsZgt27sEtvBgP2cdXfjN3pHwyBf3iSw&W=1; SRCHHPGUSR=SRCHLANG=nl&PV=15.0.0',
+    'referer': 'https://ntp.msn.com/',
+    'sec-ch-ua': '"Microsoft Edge";v="107", "Chromium";v="107", "Not=A?Brand";v="24"',
+    'sec-ch-ua-arch': '"x86"',
+    'sec-ch-ua-bitness': '"64"',
+    'sec-ch-ua-full-version': '"107.0.1418.42"',
+    'sec-ch-ua-full-version-list': '"Microsoft Edge";v="107.0.1418.42", "Chromium";v="107.0.5304.110", "Not=A?Brand";v="24.0.0.0"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-model': '""',
+    'sec-ch-ua-platform': '"Windows"',
+    'sec-ch-ua-platform-version': '"15.0.0"',
+    'sec-fetch-dest': 'document',
+    'sec-fetch-mode': 'navigate',
+    'sec-fetch-site': 'cross-site',
+    'sec-fetch-user': '?1',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42',
+    'x-client-data': 'eyIxIjoiMiIsIjEwIjoiXCI0N0RFUXBqOEhCU2ErL1RJbVcrNUpDZXVRZVJrbTVOTXBKV1pHM2hTdUZVPVwiIiwiMiI6IjEiLCIzIjoiMCIsIjQiOiIyMjQwMDk0Mzg1NDU1MjA5NzAwIiwiNSI6IlwicVlsZTE4bG1pQU5GVllINWtNOUJJeDI3dFpFeWJNTnZvOVJlYmxZS2lOTT1cIiIsIjYiOiJzdGFibGUiLCI3IjoiNjgyODk5ODAwMDcwIiwiOSI6ImRlc2t0b3AifQ==',
+    'x-edge-shopping-flag': '1',
+    'x-ms-edu': '1',
+}
+
+params = {
+    'q': 'bonjour',
+    'form': 'ANNTH1',
+    'refig': '5a5dd4e68bcc44eb94b454e8f986151c',
+}
